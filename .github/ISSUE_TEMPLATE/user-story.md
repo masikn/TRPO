@@ -2,7 +2,7 @@
 name: User Story
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: User Story
 assignees: masikn
 
 ---
